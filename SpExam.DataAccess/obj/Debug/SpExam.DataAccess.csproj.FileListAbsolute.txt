@@ -1,0 +1,16 @@
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\bin\Debug\SpExam.DataAccess.dll.config
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\bin\Debug\SpExam.DataAccess.dll
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\bin\Debug\SpExam.DataAccess.pdb
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\bin\Debug\EntityFramework.dll
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\bin\Debug\SpExam.Models.dll
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\bin\Debug\SpExam.Models.pdb
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\bin\Debug\EntityFramework.xml
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\bin\Debug\ru\EntityFramework.resources.dll
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\obj\Debug\SpExam.DataAccess.csprojAssemblyReference.cache
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\obj\Debug\SpExam.DataAccess.csproj.CoreCompileInputs.cache
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\obj\Debug\SpExam.DataAccess.csproj.CopyComplete
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\obj\Debug\SpExam.DataAccess.dll
+c:\Users\шипиловд\source\repos\SpExam\SpExam.DataAccess\obj\Debug\SpExam.DataAccess.pdb

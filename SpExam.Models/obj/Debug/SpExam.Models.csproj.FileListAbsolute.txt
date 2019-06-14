@@ -1,0 +1,5 @@
+c:\Users\шипиловд\source\repos\SpExam\SpExam.Models\bin\Debug\SpExam.Models.dll
+c:\Users\шипиловд\source\repos\SpExam\SpExam.Models\bin\Debug\SpExam.Models.pdb
+c:\Users\шипиловд\source\repos\SpExam\SpExam.Models\obj\Debug\SpExam.Models.csproj.CoreCompileInputs.cache
+c:\Users\шипиловд\source\repos\SpExam\SpExam.Models\obj\Debug\SpExam.Models.dll
+c:\Users\шипиловд\source\repos\SpExam\SpExam.Models\obj\Debug\SpExam.Models.pdb

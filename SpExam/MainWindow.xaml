@@ -1,0 +1,27 @@
+﻿<Window x:Class="SpExam.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SpExam"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="319*"/>
+            <ColumnDefinition Width="474*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <Label Content="Count threads" Margin="10"   Width="110" Height="30" HorizontalContentAlignment="Center"  FontSize="15" />
+            <TextBox Name="countTextBox" Background="LightGray" Margin="0,0,0,10"  Height="41" TextAlignment="Center" FontSize="30"  Width="100"/>
+            <Button  Name="startButton"  Margin="20" FontSize="20"  Content="Start"  Width="80" Height="40" Click="StartButtonClick"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <Label Content="Download link" Margin="0,10,0,10"   Width="110" Height="30" HorizontalContentAlignment="Center"  FontSize="15" />
+            <TextBox Name="urlTextBox"  Margin="10,0,10,10" Height="41"  TextAlignment="Left" FontSize="25" VerticalAlignment="Center" Background="LightGray"/>
+            <Label Content="File name" Margin="0,10,0,10"   Width="110" Height="30" HorizontalContentAlignment="Center"  FontSize="15" />
+            <TextBox Name="fileNameTextBox"  Margin="10,0,10,10" Height="41"  TextAlignment="Left" FontSize="25" VerticalAlignment="Center" Background="LightGray"/>
+            <Button Name="loadButton" Margin="20" Content="Load" FontSize="20"  HorizontalAlignment="Center" VerticalAlignment="Center" Width="80" Height="40" Click="LoadButtonClick"/>
+        </StackPanel>
+    </Grid>
+</Window>
